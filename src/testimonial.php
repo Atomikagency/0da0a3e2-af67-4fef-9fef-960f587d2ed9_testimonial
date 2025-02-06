@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Testimonial
  * Description: Add the capability to request feedback from your customers and display it on your website.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: AtomikAgency
  * Author URI: https://atomikagency.fr/
  */
